@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh-CN
+lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -18,18 +18,16 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: koussa's home # the main title
+title: Junnsary's Blog # the main title
 
 tagline: 梦醒时分，想要的一定能实现。 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  欢迎来到
-
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://koussax.github.io"
 
 github:
-  username: koussax # change to your github username
+  username: Junnsary # change to your github username
 
 # twitter:
 #   username: twitter_username # change to your twitter username
@@ -37,12 +35,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: koussa
-  email: hr.xiao@outlook.com # change to your email address
+  name: Junnsary
+  email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/koussax # change to your github homepage
+    - https://github.com/Junnsary # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
