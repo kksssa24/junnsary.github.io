@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: Junnsary's Blog # the main title
 
-tagline: 梦醒时分，想要的一定能实现。 # it will display as the sub-title
+tagline: 🌞简单就好... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -36,10 +36,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Junnsary
-  email: # change to your email address
+  email: Junnsary@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/Junnsary # change to your twitter homepage
     - https://github.com/Junnsary # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
